@@ -1,0 +1,6 @@
+{
+    "bookname": "javascript---MDN",
+    "catalog": "all",  
+    "ignores": ["node_modules","_book","src"],
+    "unchanged": []
+}

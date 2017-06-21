@@ -1,0 +1,16 @@
+# Book build output
+_book
+_doc
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+*.*~
+
+bower_components
+node_modules
+doc
+
+.publish
