@@ -1,2 +1,5 @@
 # javascript-MDN
-MDN javascript
+
+专注JavaScript
+
+E-mail:killanysos.gmail.com
